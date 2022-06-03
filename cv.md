@@ -52,7 +52,8 @@ Oct 2020 - Jan. 2021;
 
  
  ## English
- *******
+ **********
+ 
  I study English using these sources:
  * YouTube
  * Lingualeo
