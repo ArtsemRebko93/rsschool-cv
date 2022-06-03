@@ -1,7 +1,7 @@
 # Artsem Rebko
 *******
 
-![myself] (E:\Фото-архив\Camera\IMG_20190719_100857.jpg "I am")
+![myself] (https://ibb.co/FDXk6nW "I am")
 
 ## Contacts
 *******
