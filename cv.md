@@ -51,9 +51,9 @@ Oct 2020 - Jan. 2021;
 [My Experience in Java](https://github.com/ArtsemRebko93/JOnlineFromEpam "Course from Epam for Begginers")
 
  
- ## English
+## English
  **********
- 
+
  I study English using these sources:
  * YouTube
  * Lingualeo
