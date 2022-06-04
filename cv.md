@@ -1,8 +1,6 @@
 # Artsem Rebko
 *******
 
-![myself] (https://fv20.failiem.lv/thumb_show.php?i=56vdpytkn&view)
-
 ## Contacts
 *******
 * **Address:** Belarus, Gomel region, Zhlobin
