@@ -1,7 +1,7 @@
 # Artsem Rebko
 *******
 
-![myself] (https://ibb.co/FDXk6nW "I am")
+![myself] (https://fv20.failiem.lv/thumb_show.php?i=56vdpytkn&view)
 
 ## Contacts
 *******
