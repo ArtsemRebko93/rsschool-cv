@@ -1,12 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&family=Nuosu+SIL&family=Open+Sans:ital,wght@0,300;0,800;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&family=Nuosu+SIL&family=Open+Sans:ital,wght@0,300;0,800;1,800&display=swap");
+
+main {
+  font-size: 18px;
+}
 h1 {
-    font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 1px;
 }
 
-img {
-    width: 100%;
-    height: auto;
+h2 {
+  display: flex;
+  justify-content: center;
 }
 
-body {
-    position:absolute;
+h3 {
+  display: flex;
+  justify-content: center;
+  font-size: 23px;
+  word-spacing: 3px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  font-family: "Ibarra Real Nova", serif;
+  align-items: center;
+  background-color: whitesmoke;
+  width: 95%;
+  margin: auto;
+  padding: 10px;
+}
+
+.navigation ul {
+  display: flex;
+  max-width: 1000px;
+  align-content: center;
+  justify-content: space-between;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.navigation ul li {
+  display: flex;
+  font-family: "Ibarra Real Nova", serif;
+  font-size: 20px;
+  list-style: none;
+  margin-right: 15px;
+  justify-content: space-between;
+}
+
+.navigation ul li a {
+  color: black;
+  font-weight: bold;
+}
+.avatar_foto {
+  display: block;
+  border-radius: 50%;
+  border: 12px solid white;
+  max-width: 100%;
+  height: auto;
+}
+
+.info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+.info-block {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  margin-right: 2%;
+}
+
+.my_name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.link-foto {
+  width: 120px;
+}
+
+a {
+  text-decoration: none; /* Убираем подчёркивание */
+}
+
+a[href^="mailto"]::after {
+  content: "\1F4E9"; /* Иконка */
+  padding-left: 5px; /* Расстояние от иконки до текста */
+  vertical-align: text-bottom; /* Выравнивание по вертикали */
+  font-size: 0.8em; /* Размер иконки */
+}
+
+.footer {
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer p {
+  font-weight: bold;
+}
+
+li a img {
+  width: 15px;
+}
+
+ul li img {
+  width: 15px;
 }
